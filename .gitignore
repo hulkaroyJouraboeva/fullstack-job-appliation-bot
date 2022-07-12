@@ -1,0 +1,5 @@
+# ignores: node modules, anything in the build folder, not sure about the last 2 🤔
+node_modules
+build/*.js
+npm-debug.log
+.DS_Store
